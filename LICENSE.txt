@@ -1,4 +1,5 @@
 Copyright 2017 PayPal
+Copyright 2018 Egor Kobylkin egor@kobylkin.com
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
