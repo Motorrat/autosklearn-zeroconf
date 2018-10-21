@@ -45,7 +45,7 @@ Alternatively you could use git clone
 <pre>
 sudo apt-get update && sudo apt-get install git && git clone https://github.com/paypal/autosklearn-zeroconf.git
 </pre>
-### Happy path installation on Ubuntu 16.04LTS
+### Happy path installation on Ubuntu 16.04LTS 18.04.01LTS
 <pre>
 sudo apt-get update && sudo apt-get install git gcc build-essential swig
 git clone https://github.com/paypal/autosklearn-zeroconf.git
